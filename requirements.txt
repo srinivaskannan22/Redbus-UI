@@ -1,4 +1,5 @@
 streamlit==1.18.1
 streamlit_pandas==0.0.9
 pandas==1.5.3
+numpy==1.24.3
 
