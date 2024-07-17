@@ -1,6 +1,5 @@
 streamlit_pandas==0.0.9
 pandas==1.5.3
-numpy==1.24.3
 altair==4.2.2
 protobuf<4
 streamlit==1.18.1
