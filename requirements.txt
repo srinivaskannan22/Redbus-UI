@@ -3,7 +3,6 @@ pandas==1.5.3
 altair==4.2.2
 protobuf<4
 streamlit==1.18.1
-altair==4.2.2
 asttokens==2.4.1
 attrs==23.2.0
 blinker==1.8.2
@@ -36,7 +35,7 @@ matplotlib-inline==0.1.7
 mdurl==0.1.2
 mysql-connector-python==9.0.0
 nest-asyncio==1.6.0
-numpy==1.24.3 
+numpy==1.24.3  # Ensure this version is available
 packaging==24.1
 parso==0.8.4
 pillow==10.4.0
@@ -53,7 +52,7 @@ Pympler==1.1
 PyMySQL==1.1.1
 python-dateutil==2.9.0.post0
 pytz==2024.1
-pywin32==301 
+pywin32==301  # Ensure this version is available
 pyzmq==26.0.3
 referencing==0.35.1
 requests==2.32.3
@@ -77,3 +76,4 @@ validators==0.33.0
 watchdog==4.0.1
 wcwidth==0.2.13
 zipp==3.19.2
+
