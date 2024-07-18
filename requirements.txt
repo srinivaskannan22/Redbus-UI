@@ -1,3 +1,4 @@
 streamlit_pandas
 streamlit
+pandas==1.5.3
 
